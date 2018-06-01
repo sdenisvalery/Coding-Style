@@ -2,7 +2,7 @@
 //  CHAPIManager.m
 //  Chess.com
 //
-//  Created by Denis on 6/23/15.
+//  Created by Super Dev on 6/23/15.
 
 
 #import "CHAPIManager.h"
